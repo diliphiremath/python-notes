@@ -1,6 +1,3 @@
-from unicodedata import name
-
-
 class Vehicle:
     def __init__(self, name, color, model):
         self.name = name
